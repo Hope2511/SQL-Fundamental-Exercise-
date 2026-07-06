@@ -1,2 +1,2 @@
-# SQL-Fundamental-Exercise-
+# SQL-Fundamental-Exercises
 This repository host exercises done on the basics of SQL .
